@@ -1,7 +1,5 @@
 # Suraj and Ethan's MI250 Final Project
 
-<img src=https://i.imgur.com/XjfFXKm.png>
-
 ## Getting started
 
 This project will help you regret your past decisions to not invest in the stock market earlier.
