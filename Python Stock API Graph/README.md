@@ -2,9 +2,8 @@
 
 ## Getting started
 
-This project will help you regret your past decisions to not invest in the stock market earlier.
-
-Already in existential dread? Don't use this program...
+This Project will take a Stock name as an input and how many months ago you invested the stock into account.
+Then it will show two graphs : One of the price of the stock vs time and another showing the volume of stock sold vs time
 
 ## Installation Requirements
 
