@@ -1,4 +1,4 @@
-# Suraj and Ethan's MI250 Final Project
+# Python Stock API Project
 
 ## Getting started
 
